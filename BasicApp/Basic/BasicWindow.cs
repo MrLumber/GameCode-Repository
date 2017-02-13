@@ -72,6 +72,8 @@ namespace BasicApp.Basic
             record.MouseDown += OnMouseDown;
             record.MouseMove += OnMouseMove;
             record.MouseUp += OnMouseUp;
+            record.KeyDown += OnKeyDown;
+            record.KeyUp += OnKeyUp;
 
             record.Show();
         }
@@ -87,6 +89,16 @@ namespace BasicApp.Basic
         }
 
         public virtual void OnMouseDown(object sender, MouseEventArgs e)
+        {
+            return;
+        }
+
+        public virtual void OnKeyDown(object sender, KeyEventArgs e)
+        {
+            return;
+        }
+
+        public virtual void OnKeyUp(object sender, KeyEventArgs e)
         {
             return;
         }

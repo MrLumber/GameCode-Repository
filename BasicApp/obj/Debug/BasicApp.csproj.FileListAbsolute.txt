@@ -14,3 +14,11 @@ C:\Users\patri\Documents\Visual Studio 2015\Projects\Patrick Applications\BasicA
 C:\Users\patri\Documents\Visual Studio 2015\Projects\Patrick Applications\BasicApp - Working\BasicApp\obj\Debug\BasicApp.exe
 C:\Users\patri\Documents\Visual Studio 2015\Projects\Patrick Applications\BasicApp - Working\BasicApp\obj\Debug\BasicApp.pdb
 C:\Users\patri\Documents\Visual Studio 2015\Projects\Patrick Applications\BasicApp - Working\BasicApp\obj\Debug\BasicApp.csprojResolveAssemblyReference.cache
+C:\Users\patri\Documents\GitHub\GameCode-Repository\BasicApp\bin\Debug\BasicApp.exe.config
+C:\Users\patri\Documents\GitHub\GameCode-Repository\BasicApp\bin\Debug\BasicApp.exe
+C:\Users\patri\Documents\GitHub\GameCode-Repository\BasicApp\bin\Debug\BasicApp.pdb
+C:\Users\patri\Documents\GitHub\GameCode-Repository\BasicApp\obj\Debug\BasicApp.csprojResolveAssemblyReference.cache
+C:\Users\patri\Documents\GitHub\GameCode-Repository\BasicApp\obj\Debug\BasicApp.Properties.Resources.resources
+C:\Users\patri\Documents\GitHub\GameCode-Repository\BasicApp\obj\Debug\BasicApp.csproj.GenerateResource.Cache
+C:\Users\patri\Documents\GitHub\GameCode-Repository\BasicApp\obj\Debug\BasicApp.exe
+C:\Users\patri\Documents\GitHub\GameCode-Repository\BasicApp\obj\Debug\BasicApp.pdb

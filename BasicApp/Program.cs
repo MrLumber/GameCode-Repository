@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 using BasicApp.Basic;
+using BasicApp.SpriteEngine;
 using BasicApp.WordBrain;
 
 namespace BasicApp
@@ -20,7 +21,7 @@ namespace BasicApp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            BasicWindow mainWindow = new WBWindow();
+            BasicWindow mainWindow = new SpriteWindow();
             mainWindow.CreateRecord();
 
             ApplicationContext theApplicationRecord = new ApplicationContext(mainWindow.record);
